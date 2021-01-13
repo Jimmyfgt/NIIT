@@ -18,8 +18,8 @@ public class AliYunOSSUtil {
 
     //注意有空格都不行
     private static final String ENDPOINT = "oss-cn-beijing.aliyuncs.com";//区域节点
-    private static final String ACCESSKEYID = "LTAI4GJmE1Pym3XULF89LyBG"; //秘钥
-    private static final String ACCESSKEYSECRET = "N3Gsd2uTkxnkqX1Vv5I2XLUX1en790";
+    private static final String ACCESSKEYID = ""; //秘钥
+    private static final String ACCESSKEYSECRET = "";//ACCESSKEYSECRET
     private static final String BUCKET = "fgt-test";  //仓库
     private static SimpleDateFormat simpleDateFormat = new SimpleDateFormat("YYYYMMdd"); //格式化日期
 
